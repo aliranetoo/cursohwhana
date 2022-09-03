@@ -25,6 +25,11 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (Folder "Logs")
   (PartMRUSelector
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
     (0
       (LibraryName "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
       (DeviceIndex "0"))
@@ -53,8 +58,8 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1369 24 773")
-        (Scroll "60 344")
-        (Zoom "200")
+        (Scroll "996 824")
+        (Zoom "400")
         (Occurrence "/"))
       (Path "C:\USERS\ARTHU\DESKTOP\AULA_GIT_FINAL\FIRST_PROJECT_GIT.DSN")
       (Schematic "SCHEMATIC1")
