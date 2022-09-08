@@ -1,6 +1,6 @@
 (ExpressProject "First_Project_Git"
   (ProjectVersion "19981106")
-  (SoftwareVersion "17.4-2019 S031 (4044358)  [7/23/2022]-[09/02/22]")
+  (SoftwareVersion "17.4-2019 S031 (4044358)  [7/23/2022]-[09/08/22]")
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
