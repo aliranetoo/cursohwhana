@@ -4,14 +4,14 @@
   (ProjectType "Analog or A/D Mixed Mode")
   (Folder "Design Resources"
     (Folder "Library")
-    ("Allegro Netlist Directory" "allegro")
+    (Allegro Netlist Directory "allegro")
     (DOCKED "TRUE")
     (DOCKING_POSITION "59420")
     (NoModify)
-    (File ".\first_project_git.dsn"
-      (Type "Schematic Design"))
     (BuildFileAddedOrDeleted "x")
-    (CompileFileAddedOrDeleted "x"))
+    (CompileFileAddedOrDeleted "x")
+    (File ".\first_project_git.dsn"
+      (Type "Schematic Design")))
   (Folder "Layout")
   (Folder "Outputs")
   (Folder "PSpice Resources"
@@ -25,6 +25,11 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (Folder "Logs")
   (PartMRUSelector
+    (L
+      (FullPartName "L.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\ANALOG.OLB")
+      (DeviceIndex "0"))
     (C
       (FullPartName "C.Normal")
       (LibraryName
@@ -47,7 +52,14 @@
   (GlobalState
     (FileView
       (Path "Design Resources")
-      (Select "Design Resources"))
+      (Path "Design Resources"
+         "C:\Users\arthu\Desktop\testecolaborador\cursohwhana\1\first_project_git.dsn")
+      (Path "Design Resources"
+         "C:\Users\arthu\Desktop\testecolaborador\cursohwhana\1\first_project_git.dsn"
+         "SCHEMATIC1")
+      (Select "Design Resources"
+         "C:\Users\arthu\Desktop\testecolaborador\cursohwhana\1\first_project_git.dsn"
+         "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
       (Type "COrCapturePMDoc")
@@ -58,9 +70,10 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1369 24 773")
-        (Scroll "1045 759")
-        (Zoom "372")
+        (Scroll "1230 950")
+        (Zoom "436")
         (Occurrence "/"))
-      (Path "C:\USERS\ARTHU\DESKTOP\AULA_GIT_FINAL\FIRST_PROJECT_GIT.DSN")
+      (Path
+         "C:\USERS\ARTHU\DESKTOP\TESTECOLABORADOR\CURSOHWHANA\1\FIRST_PROJECT_GIT.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))))
