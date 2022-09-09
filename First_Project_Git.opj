@@ -25,6 +25,11 @@
   (DefaultLibraryBrowseDirectory "library\PSpice")
   (Folder "Logs")
   (PartMRUSelector
+    (Dbreak
+      (FullPartName "Dbreak.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.4\TOOLS\CAPTURE\LIBRARY\PSPICE\BREAKOUT.OLB")
+      (DeviceIndex "0"))
     (L
       (FullPartName "L.Normal")
       (LibraryName
@@ -53,12 +58,12 @@
     (FileView
       (Path "Design Resources")
       (Path "Design Resources"
-         "C:\Users\arthu\Desktop\testecolaborador\cursohwhana\1\first_project_git.dsn")
+         "C:\Users\arthu\Desktop\aula_git_final\first_project_git.dsn")
       (Path "Design Resources"
-         "C:\Users\arthu\Desktop\testecolaborador\cursohwhana\1\first_project_git.dsn"
+         "C:\Users\arthu\Desktop\aula_git_final\first_project_git.dsn"
          "SCHEMATIC1")
       (Select "Design Resources"
-         "C:\Users\arthu\Desktop\testecolaborador\cursohwhana\1\first_project_git.dsn"
+         "C:\Users\arthu\Desktop\aula_git_final\first_project_git.dsn"
          "SCHEMATIC1" "PAGE1"))
     (HierarchyView)
     (Doc
@@ -70,10 +75,9 @@
       (Type "COrSchematicDoc")
       (Frame
         (Placement "44 0 1 -1 -1 -1 -1 5 1369 24 773")
-        (Scroll "1230 950")
-        (Zoom "436")
+        (Scroll "298 236")
+        (Zoom "200")
         (Occurrence "/"))
-      (Path
-         "C:\USERS\ARTHU\DESKTOP\TESTECOLABORADOR\CURSOHWHANA\1\FIRST_PROJECT_GIT.DSN")
+      (Path "C:\USERS\ARTHU\DESKTOP\AULA_GIT_FINAL\FIRST_PROJECT_GIT.DSN")
       (Schematic "SCHEMATIC1")
       (Page "PAGE1"))))
